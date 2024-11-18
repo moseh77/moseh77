@@ -10,8 +10,6 @@ The Particular fields of tech I'm interested in are:
 
 ## 1. CyberSecurity 
 
-Here's a rephrased version:
-
 What first sparked my interest in tech was stumbling across YouTube videos of security professionals doing fascinating things with the browser and the Kali Linux command line. I didn’t fully understand what they were doing at the time, but I knew I wanted to learn and be able to do the same. 
 
 <br>
