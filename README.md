@@ -18,7 +18,7 @@ What first sparked my interest in tech was stumbling across YouTube videos of se
 
 ### These are my acheivements so far:
 
-  <a href="https://www.credly.com/badges/e765483e-b64c-4162-ba09-171e3dbd95f1/public_url">
+  <img src="./aws-certified-cloud-practitioner.png" alt="CCP" width="50"/> &nbsp; 
  
 
 <br>
