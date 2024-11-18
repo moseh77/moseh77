@@ -6,7 +6,7 @@
 
 # Interests
 
-The Particular fields of tech I'm interested in are as follows
+The Particular fields of tech I'm interested in are:
 
 ## 1. CyberSecurity 
 
