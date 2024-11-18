@@ -18,7 +18,7 @@ What first sparked my interest in tech was stumbling across YouTube videos of se
 
 ### These are my acheivements so far:
 
-  <img src="./aws-certified-cloud-practitioner.png" alt="CCP" width="50"/> &nbsp; 
+  <img src="./aws-certified-cloud-practitioner.png" alt="CCP" width="80"/> &nbsp; 
  
 
 <br>
