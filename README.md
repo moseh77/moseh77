@@ -1,9 +1,9 @@
 # 👋 Hi, I’m Moses Njuguna
 
-I’m a **Cybersecurity & Cloud Engineering practitioner** focused on **offensive security, defensive monitoring, cloud infrastructure, backend development, and AI-powered automation**.  
+I’m a **Cybersecurity & Cloud Engineering practitioner** focused on **offensive security, defensive monitoring, cloud infrastructure, and automation**.  
 My work centers on understanding **how systems fail, how attacks unfold, and how to design resilient, automated, and secure architectures**.
 
-I operate at the intersection of **security engineering, cloud platforms, backend/full-stack development, and AI-driven automation**, with hands-on experience across labs, CTFs, cloud environments, and production-style systems.
+I operate at the intersection of **security engineering, cloud platforms, and AI-driven automation**, with hands-on experience from labs, CTFs, real-world simulations, and production-style environments.
 
 ---
 
@@ -23,10 +23,10 @@ I operate at the intersection of **security engineering, cloud platforms, backen
 - Logging, monitoring, and auditability  
 - High availability and fault-tolerant systems
 
-### 🤖 Automation & AI Systems
-- Event-driven workflow automation
-- AI-powered decision pipelines
-- API orchestration and backend-grade automation
+### 🤖 Automation & AI Agents
+- Workflow and security automation using **n8n**  
+- AI-assisted agents for analysis, triage, and orchestration  
+- API-driven integrations and event-based workflows
 
 ---
 
@@ -62,6 +62,9 @@ I operate at the intersection of **security engineering, cloud platforms, backen
 - **Route 53, Auto Scaling, Load Balancing**
 
 🎓 **Certification:** AWS Certified Cloud Practitioner
+
+---
+
 
 ---
 
@@ -193,11 +196,97 @@ These systems integrate **AI decision-making, external APIs, and live data sourc
 ==============================================================================================================================================================================
 
 ## 🚀 Selected Security & Cloud Projects
-- Offensive Security Labs (VulnHub, HTB)
-- SOC & DFIR investigations (CyberDefenders)
-- Malware & memory forensics
-- AWS Cloud & hybrid infrastructure labs  
-🔗 https://medium.com/@njugunamoses765
+
+> The following projects are **hands-on investigations and labs** documented on Medium and presented here as **portfolio-grade work** demonstrating real-world security and cloud skills.
+
+### 🔴 Solstice Offensive Security Box – Full System Compromise
+- Conducted end-to-end compromise of a vulnerable Linux host
+- Performed reconnaissance and enumeration using **Nmap**
+- Exploited **Local File Inclusion (LFI)** and escalated to **Remote Code Execution**
+- Achieved initial access via **log poisoning** and gained a reverse shell
+- Completed **privilege escalation** by abusing writable PHP files running as root  
+**Skills:** Enumeration, LFI exploitation, RCE, privilege escalation  
+🔗 Medium: https://medium.com/@njugunamoses765/solstice-offensive-security-box-walkthrough-c32703343132
+
+---
+
+### 🔴 Kioptrix 4 – Vulnerable Machine Enumeration & Exploitation
+- Enumerated SMB services using **Enum4linux**
+- Identified exposed database files and leveraged **SQL Injection**
+- Escaped a restricted shell and pivoted into **MySQL**
+- Used **MySQL UDFs** to execute OS commands and obtain root access  
+**Skills:** SQL injection, restricted-shell escape, database exploitation  
+🔗 Medium: https://medium.com/@njugunamoses765/kioptrix-4-vulnhub-machine-enumeration-af6fa5202bc9
+
+---
+
+### 🔵 Network Forensics – CyberDefenders Hawkeye Lab
+- Investigated a malicious email infection scenario
+- Analyzed PCAP traffic using **Wireshark**
+- Identified malicious domains, IP addresses, DNS infrastructure, and attacker geography
+- Extracted file hashes and determined attack timeline  
+**Skills:** Network forensics, DNS/DHCP analysis, incident investigation  
+🔗 Medium: https://medium.com/@njugunamoses765/network-forensics-cyber-defenders-hawkeye-e241613909ee
+
+---
+
+### 🦠 Malware Analysis – IcedID Campaign Investigation
+- Analyzed a phishing-based malware delivery chain
+- Identified malicious documents, embedded payloads, and download infrastructure
+- Leveraged **threat intelligence platforms** to attribute activity to **TA551**
+- Mapped techniques to **MITRE ATT&CK** and analyzed Windows API usage  
+**Skills:** Malware triage, threat intelligence, ATT&CK mapping  
+🔗 Medium: https://medium.com/@njugunamoses765/malware-analysis-cyberdefenders-icedid-ad346d00b557
+
+---
+
+### 🔵 SOC & Incident Response – CyberDefenders EscapeRoom
+- Investigated a compromised web server environment
+- Detected **SSH brute-force attacks** using logs and PCAPs
+- Recovered credentials via **hash cracking**
+- Identified malware persistence mechanisms via `/etc/rc.local`  
+**Skills:** SOC analysis, SSH attack detection, persistence analysis  
+🔗 Medium: https://medium.com/@njugunamoses765/cyberdefenders-escaperoom-lab-448934f3e75f
+
+---
+
+### 🔵 Endpoint Forensics – BankingTroubles Memory Analysis
+- Conducted memory forensics using **Volatility**
+- Analyzed malicious PDF execution and JavaScript payloads
+- Recovered credentials, processes, network connections, and exploit artifacts
+- Traced malicious activity to external C2 infrastructure  
+**Skills:** Memory forensics, PDF analysis, credential recovery  
+🔗 Medium: https://medium.com/@njugunamoses765/cyberdefenders-bankingtroubles-8657355c47d7
+
+---
+
+### 🟠 Supply Chain Security – 3CX Compromise Analysis
+- Investigated a real-world **supply chain attack**
+- Analyzed compromised installer artifacts and persistence mechanisms
+- Researched attacker behavior and linked findings to public incident reports  
+**Skills:** Supply chain threat analysis, OSINT, malware investigation  
+🔗 Medium: https://medium.com/@njugunamoses765/3cx-supply-chain-md-cyberdefenders-61978e62d5ae
+
+---
+
+### ☁️ AWS CloudFormation – Infrastructure Troubleshooting
+- Deployed multi-resource stacks using **AWS CLI**
+- Diagnosed stack failures via CloudFormation events and logs
+- Performed drift detection and resolved delete-stack failures while preserving data  
+**Skills:** CloudFormation, IaC troubleshooting, AWS debugging  
+🔗 Medium: https://medium.com/@njugunamoses765/troubleshooting-cloudformation-1a08380ca53e
+
+---
+
+### ☁️ AWS Hybrid Storage & Data Migration
+- Implemented **AWS Storage Gateway (File Gateway)**
+- Bridged on-prem NFS storage with Amazon S3
+- Configured cross-region replication and lifecycle policies across multiple AWS regions  
+**Skills:** Hybrid cloud, storage migration, S3 replication  
+🔗 Medium: https://medium.com/@njugunamoses765/aws-hybrid-storage-and-data-migration-with-aws-storage-gateway-file-gateway-8b39c5d0ee4f
+
+
+---
 
 ---
 
